@@ -1,4 +1,4 @@
-day 2 
-version 2 
+day 3 
+version 3 
 daer diary ,
 today we are learning GIT
