@@ -1,7 +1,4 @@
-day 3 
-version 3 
-daer diary ,
-today we are learning GIT
+
 
 git init
  
@@ -11,5 +8,4 @@ git status
 git log
 git restore --source commit id file.txt
 
-version 5 
-of b1 branch
+version 6
