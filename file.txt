@@ -2,3 +2,11 @@ day 3
 version 3 
 daer diary ,
 today we are learning GIT
+
+git init
+ 
+git config username
+ 
+git status
+git log
+git restore --source commit id file.txt
